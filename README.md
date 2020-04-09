@@ -1,5 +1,12 @@
 ## Luigi sample
 
+### Usage
+
+#### Local development
+
+```bash
+$ python tasks/sample.py TaskA --local-scheduler
+```
 
 ## Refs
 
