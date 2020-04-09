@@ -9,4 +9,5 @@
 - [hakobera/luigi-bigquery-exercise](https://github.com/hakobera/luigi-bigquery-exercise/blob/master/doc/luigi-basics.md)
 - [Python: Luigiのパラメータ爆発問題について | CUBE SUGAR CONTAINER](https://blog.amedama.jp/entry/luigi-parameter-explosion)
 - [Python: Luigiのイベントハンドラを試してみる | CUBE SUGAR CONTAINER](https://blog.amedama.jp/entry/luigi-event-handler)
+- [Python: データパイプライン構築用フレームワークLuigiを使ってみる](https://blog.amedama.jp/entry/2017/05/13/203907)
 - [Luigi | いかたこのたこつぼ](https://ikatakos.com/pot/programming/python/packages/luigi)
