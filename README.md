@@ -26,3 +26,4 @@ $ python tasks/wrapper-sample.py --workers 3
 - [Python: Luigiのイベントハンドラを試してみる | CUBE SUGAR CONTAINER](https://blog.amedama.jp/entry/luigi-event-handler)
 - [Python: データパイプライン構築用フレームワークLuigiを使ってみる](https://blog.amedama.jp/entry/2017/05/13/203907) recommendation
 - [Luigi | いかたこのたこつぼ](https://ikatakos.com/pot/programming/python/packages/luigi)
+- [Luigi逆引きリファレンス](https://qiita.com/hagino3000/items/b9a7761dad1f352ec723#gcp)
