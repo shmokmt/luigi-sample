@@ -2,11 +2,18 @@
 
 ### Usage
 
-#### Local development
+local-scheduler 
 
 ```bash
 $ python tasks/sample.py TaskA --local-scheduler
 ```
+
+workers
+
+```bash
+$ python tasks/wrapper-sample.py --workers 3
+```
+
 
 ## Refs
 
@@ -16,5 +23,5 @@ $ python tasks/sample.py TaskA --local-scheduler
 - [hakobera/luigi-bigquery-exercise](https://github.com/hakobera/luigi-bigquery-exercise/blob/master/doc/luigi-basics.md)
 - [Python: Luigiのパラメータ爆発問題について | CUBE SUGAR CONTAINER](https://blog.amedama.jp/entry/luigi-parameter-explosion)
 - [Python: Luigiのイベントハンドラを試してみる | CUBE SUGAR CONTAINER](https://blog.amedama.jp/entry/luigi-event-handler)
-- [Python: データパイプライン構築用フレームワークLuigiを使ってみる](https://blog.amedama.jp/entry/2017/05/13/203907)
+- [Python: データパイプライン構築用フレームワークLuigiを使ってみる](https://blog.amedama.jp/entry/2017/05/13/203907) recommendation
 - [Luigi | いかたこのたこつぼ](https://ikatakos.com/pot/programming/python/packages/luigi)
